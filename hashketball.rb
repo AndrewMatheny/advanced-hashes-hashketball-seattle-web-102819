@@ -135,7 +135,7 @@ def num_points_scored(player_name)
         answer = player[:points]
       end
     end
-  end
+  #end
   answer
 end
 
